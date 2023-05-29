@@ -1455,6 +1455,10 @@ ul {
   font-size: 40px;
   opacity: 0.2;
 }
+.friends-page .friend .info div a{
+  padding: 5px 10px;
+}
+
 /* End Friends Page */
 /* Start Files Page */
 .files-page {
