@@ -1457,9 +1457,8 @@ ul {
   opacity: 0.2;
 }
 .friends-page .friend .info div a{
-  padding: 5px 10px;
+  padding: 5px;
 }
-
 /* End Friends Page */
 /* Start Files Page */
 .files-page {
