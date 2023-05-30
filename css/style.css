@@ -369,7 +369,7 @@ ul {
   transition: width 0.3s;
 }
 .head .search input:focus {
-  width: 200px;
+  width: 185px;
   background-color: var(--c-border);
 }
 .head .search input:focus::placeholder {
@@ -912,6 +912,7 @@ ul {
 }
 .settings-page .sec-box .button {
   transition: 0.3s;
+  padding: 5px;
 }
 .settings-page .social-boxes i {
   width: 40px;
@@ -1456,7 +1457,7 @@ ul {
   opacity: 0.2;
 }
 .friends-page .friend .info div a{
-  padding: 5px;
+  padding: 5px 10px;
 }
 
 /* End Friends Page */
